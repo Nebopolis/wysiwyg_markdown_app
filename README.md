@@ -1,14 +1,8 @@
-# App name
+# WYSIWYG Markdown App
 
-[brief description of the app]
+This is a basic app that turns any text inbetween {{markdown}} and {{\markdown}} into rendered markdown for the zendesk WYSIWYG editor.
 
-### The following information is displayed:
+Please submit bug reports to the github issues. Pull requests are welcome.
 
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+### Screenshot:
+![screenshare](/docs/screen.gif)
