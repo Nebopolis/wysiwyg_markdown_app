@@ -9,7 +9,7 @@
   "private": true,
   "noTemplate": true,
   "singleInstall": true,
-  "location": ["ticket_sidebar", "new_ticket_sidbar"]
+  "location": ["ticket_sidebar", "new_ticket_sidebar"],
   "version": "1.0",
   "frameworkVersion": "1.0"
 }
